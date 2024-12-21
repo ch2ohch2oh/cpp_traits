@@ -1,3 +1,3 @@
 add_executable(func_template func_template.cpp)
 add_executable(class_template class_template.cpp)
-add_executable(polymorphism polymorphism.cpp)
+add_executable(polymorphism 18_polymorphism.cpp)
